@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm James</h1>
-<h3 align="center">A PHP developer from Pakistan</h3>
+<h3 align="center">A PHP developer from Techmax</h3>
 
 - 🔭 I’m currently working on Techmax
 - 🌱 I’m currently learning Data Analysis Data Science Machine learning
