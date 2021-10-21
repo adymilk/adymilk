@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Techmax
 - 🌱 I’m currently learning Data Analysis Data Science Machine learning
-- 📫 How to reach me: 924114103@qq.com
+- 📫 How to reach me: https://adymilk.github.io
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
